@@ -1,0 +1,10 @@
+header {
+    color:antiquewhite;
+    background-color: brown;
+    text-align: center;
+}
+main {
+    background-color: rgb(174, 176, 179);
+    padding: 1em;
+    text-align: center;
+}
